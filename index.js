@@ -22,9 +22,9 @@ module.exports = client;
 
 const mysql2 = require("mysql2/promise");
 
-const db3 = new JsonDatabase({
-  databasePath: "./databases/myJsonWhitelist.json",
-});
+// const db3 = new JsonDatabase({
+//   databasePath: "./databases/myJsonWhitelist.json",
+// });
 client.on("interactionCreate", (interaction) => {
   if (interaction.type === Discord.InteractionType.ApplicationCommand) {
     const cmd = client.slashCommands.get(interaction.commandName);
