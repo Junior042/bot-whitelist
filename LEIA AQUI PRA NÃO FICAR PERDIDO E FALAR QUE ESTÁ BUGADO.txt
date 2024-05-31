@@ -1,0 +1,25 @@
+ATENÇÃO AQUI ONDE VC PRECISA ALTERAR PRA NÃO BUGAR
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+NO INDEX.JS
+LINHA 111 VERIFICA SE SEU BANCO DE DADOS É
+WHITELIST OU WHITELISTED
+
+LINHA 138 PEGAR O CARGO QUE VAI SER REMOVIDO 
+E TROCAR LÁ '1165056007530090580' TIRA ESSE E COLOCA
+O SEU.
+
+LINHA 216 VERIFICA SE SEU BANCO DE DADOS É
+WHITELIST OU WHITELISTED
+
+LINHA 229 PEGAR O IDE DO CANAL QUE VAI RECEBER AS 
+BOAS VINDAS QUANDO ENTRAREM NO DISCORD
+
+LINHA 248 E 253 COLOCAR O LINK DO CANAL DE REGRAS
+
+não esquece que quando criar o usuario no banco de dados você tem que colocar permissão para acesso :
+na opção Do servidor: colocar "acessar de qualquer local", após clicar em salvar vai ficar uma opção de % embaixo do 
+nome de usuário.
+
+
+

@@ -1,0 +1,25 @@
+{
+  "token": "",
+  "canal_aprovados": "1245767839756058717",
+  "cargoadmin": "1239316142481477843",
+  "cargoaprovado": "1223749479895662703",
+
+  "hostdb": "127.0.0.1",
+  "userdb": "root",
+  "passdb": "",
+  "databasename": "creative",
+  "table_user_db": "accounts",
+
+  "canal_boasvindas": "838626875206008876",
+  "cargo_boasvindas": "1245959886496600145",
+
+  "url_canal_whitelist": "https://discord.com/channels/838626875206008872/1245770539075637369",
+  "url_canal_regras": "https://discord.com/channels/838626875206008872/1245960546852012084",
+
+  "ticket": {
+    "category_id": "",
+    "category_call_id": "",
+    "support_role": "",
+    "channel_logs": ""
+  }
+}
